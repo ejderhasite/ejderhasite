@@ -1,19 +1,17 @@
 # Site settings
 title: "Intuitív barangolások egy idealista tollából"
 author: "Ejderha"
-description: "Az igazság alapjától fogva inkompatibilis a létezéssel"
-keywords: "Software Engineering, Mathematics, Philosophy, Scala, Epistemology, Existentialism, Programming, Machine-Learning, Artificial Intelligence, Statistics, Probability, Puzzles"
-biography: "A bölcsesség szerelmese vagyok, szégyentelen promiszkuitásban élek a világnézetemet tágító gondolatokkal. Az itt megjelenő írások fő célja, a mai világunkban uralkodó materialista, fizikalista világnézet fölösleges szenvedtető uralmát megdönteni filozófiai alapokon és egy tágabb világnézet felé adni meghívást."
+description: "Az itt megjelenő írások fő célja, a mai világunkban uralkodó materialista, fizikalista világnézet fölösleges szenvedtető uralmát megdönteni filozófiai alapokon és egy tágabb világnézet felé adni meghívást. Továbbá kötetlen intuitív felfedezése zajlik a létezésnek a lehető legtöbb szinten."
+keywords: "Költészet, Filozófia, Idealizmus, Materializmus, Fizikalizmus, Nondualitás, Védikus, Zen, Tudat, Mesterséges Intelligencia, Halál, Isten"
+biography: "A bölcsesség szerelmese vagyok, szégyentelen promiszkuitásban élek a világnézetemet tágító gondolatokkal."
 colophon: 
 
 baseurl: ""
-url: "http://hugosereno.eu"
+url: "http://ejderhasite.github.io"
 
-twitter_username: ferreira_hugo
-github_username: hugoferreira
-linkedin_username: hugoserenoferreira
-facebook_username: hugo.sereno.ferreira
-google-analytics: UA-69060-5
+instagram_username: __ejderha
+facebook_username: ejderha_poetry
+google-analytics: UA-66666-6
 
 simple_search: http://google.com/search
 markdown: kramdown
