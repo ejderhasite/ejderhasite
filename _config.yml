@@ -4,7 +4,7 @@ author: "Ejderha"
 description: "Az igazság alapjától fogva inkompatibilis a létezéssel"
 keywords: "Software Engineering, Mathematics, Philosophy, Scala, Epistemology, Existentialism, Programming, Machine-Learning, Artificial Intelligence, Statistics, Probability, Puzzles"
 biography: "A bölcsesség szerelmese vagyok, szégyentelen promiszkuitásban élek a világnézetemet tágító gondolatokkal. Az itt megjelenő írások fő célja, a mai világunkban uralkodó materialista, fizikalista világnézet fölösleges szenvedtető uralmát megdönteni filozófiai alapokon és egy tágabb világnézet felé adni meghívást."
-colophon: "Github pagessel megosztva"
+colophon: 
 
 baseurl: ""
 url: "http://hugosereno.eu"
