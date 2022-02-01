@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Sleeping Beauty
-date: 2022-01-29 15:46
+title: Sleeping Beauty 2
 comments: true
 external-url:
 categories: Mathematics
